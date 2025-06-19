@@ -1,0 +1,905 @@
+2025-06-13 03:35:42,867 - ERROR - Failed to load model: [Errno 2] Unable to synchronously open file (unable to open file: name = '/media/controller/Eternal/f/model/model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-06-13 03:36:19,108 - ERROR - Failed to load model: [Errno 2] Unable to synchronously open file (unable to open file: name = '/media/controller/Eternal/f/model/best_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-06-13 03:37:28,604 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:37:28,638 - INFO - Model loaded successfully.
+2025-06-13 03:37:28,638 - INFO - Loaded 100 class name.
+2025-06-13 03:37:28,639 - INFO - Starting Flask app...
+2025-06-13 03:37:28,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 03:37:28,649 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 03:37:28,650 - INFO -  * Restarting with stat
+2025-06-13 03:37:32,146 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:37:32,178 - INFO - Model loaded successfully.
+2025-06-13 03:37:32,179 - INFO - Loaded 100 class name.
+2025-06-13 03:37:32,180 - INFO - Starting Flask app...
+2025-06-13 03:37:32,183 - WARNING -  * Debugger is active!
+2025-06-13 03:37:32,184 - INFO -  * Debugger PIN: 503-262-207
+2025-06-13 03:37:35,033 - INFO - 127.0.0.1 - - [13/Jun/2025 03:37:35] "GET / HTTP/1.1" 200 -
+2025-06-13 03:37:35,131 - INFO - 127.0.0.1 - - [13/Jun/2025 03:37:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-06-13 03:37:35,133 - INFO - 127.0.0.1 - - [13/Jun/2025 03:37:35] "GET / HTTP/1.1" 200 -
+2025-06-13 03:37:35,135 - INFO - 127.0.0.1 - - [13/Jun/2025 03:37:35] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 03:37:35,179 - INFO - 127.0.0.1 - - [13/Jun/2025 03:37:35] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 03:41:31,214 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:41:31,247 - INFO - Model loaded successfully.
+2025-06-13 03:41:31,248 - INFO - Loaded 100 class name.
+2025-06-13 03:41:31,249 - INFO - Starting Flask app...
+2025-06-13 03:41:31,253 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 03:41:31,253 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 03:41:31,254 - INFO -  * Restarting with stat
+2025-06-13 03:41:34,822 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:41:34,855 - INFO - Model loaded successfully.
+2025-06-13 03:41:34,855 - INFO - Loaded 100 class name.
+2025-06-13 03:41:34,856 - INFO - Starting Flask app...
+2025-06-13 03:41:34,860 - WARNING -  * Debugger is active!
+2025-06-13 03:41:34,860 - INFO -  * Debugger PIN: 503-262-207
+2025-06-13 03:41:39,058 - INFO - 127.0.0.1 - - [13/Jun/2025 03:41:39] "GET / HTTP/1.1" 200 -
+2025-06-13 03:41:39,135 - INFO - 127.0.0.1 - - [13/Jun/2025 03:41:39] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-06-13 03:41:39,139 - INFO - 127.0.0.1 - - [13/Jun/2025 03:41:39] "GET / HTTP/1.1" 200 -
+2025-06-13 03:41:39,140 - INFO - 127.0.0.1 - - [13/Jun/2025 03:41:39] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 03:41:39,188 - INFO - 127.0.0.1 - - [13/Jun/2025 03:41:39] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 03:42:19,396 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:42:19,429 - INFO - Model loaded successfully.
+2025-06-13 03:42:19,430 - INFO - Loaded 100 class name.
+2025-06-13 03:42:19,430 - INFO - Starting Flask app...
+2025-06-13 03:42:19,435 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 03:42:19,435 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 03:42:19,435 - INFO -  * Restarting with stat
+2025-06-13 03:42:23,256 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:42:23,291 - INFO - Model loaded successfully.
+2025-06-13 03:42:23,292 - INFO - Loaded 100 class name.
+2025-06-13 03:42:23,293 - INFO - Starting Flask app...
+2025-06-13 03:42:23,296 - WARNING -  * Debugger is active!
+2025-06-13 03:42:23,296 - INFO -  * Debugger PIN: 503-262-207
+2025-06-13 03:42:23,305 - INFO - 127.0.0.1 - - [13/Jun/2025 03:42:23] "GET / HTTP/1.1" 200 -
+2025-06-13 03:42:23,350 - INFO - 127.0.0.1 - - [13/Jun/2025 03:42:23] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-06-13 03:42:23,350 - INFO - 127.0.0.1 - - [13/Jun/2025 03:42:23] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 03:42:23,352 - INFO - 127.0.0.1 - - [13/Jun/2025 03:42:23] "GET / HTTP/1.1" 200 -
+2025-06-13 03:42:23,366 - INFO - 127.0.0.1 - - [13/Jun/2025 03:42:23] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 03:45:00,917 - ERROR - Failed to load model: [Errno 2] Unable to synchronously open file (unable to open file: name = '/media/controller/Eternal/F/best_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-06-13 03:46:30,981 - ERROR - Failed to load model: [Errno 2] Unable to synchronously open file (unable to open file: name = '/media/controller/Eternal/F/best_model1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-06-13 03:46:55,350 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:46:55,384 - INFO - Model loaded successfully.
+2025-06-13 03:46:55,384 - INFO - Loaded 100 class name.
+2025-06-13 03:46:55,385 - INFO - Starting Flask app...
+2025-06-13 03:46:55,389 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 03:46:55,389 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 03:46:55,390 - INFO -  * Restarting with stat
+2025-06-13 03:46:58,879 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:46:58,912 - INFO - Model loaded successfully.
+2025-06-13 03:46:58,913 - INFO - Loaded 100 class name.
+2025-06-13 03:46:58,914 - INFO - Starting Flask app...
+2025-06-13 03:46:58,918 - WARNING -  * Debugger is active!
+2025-06-13 03:46:58,918 - INFO -  * Debugger PIN: 503-262-207
+2025-06-13 03:47:07,686 - INFO - 127.0.0.1 - - [13/Jun/2025 03:47:07] "GET / HTTP/1.1" 200 -
+2025-06-13 03:47:07,779 - INFO - 127.0.0.1 - - [13/Jun/2025 03:47:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2025-06-13 03:47:07,780 - INFO - 127.0.0.1 - - [13/Jun/2025 03:47:07] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 03:47:07,782 - INFO - 127.0.0.1 - - [13/Jun/2025 03:47:07] "GET / HTTP/1.1" 200 -
+2025-06-13 03:47:07,847 - INFO - 127.0.0.1 - - [13/Jun/2025 03:47:07] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 03:49:28,840 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:49:28,874 - INFO - Model loaded successfully.
+2025-06-13 03:49:28,875 - INFO - Loaded 100 class name.
+2025-06-13 03:49:28,876 - INFO - Starting Flask app...
+2025-06-13 03:49:28,880 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 03:49:28,880 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 03:49:28,881 - INFO -  * Restarting with stat
+2025-06-13 03:49:32,518 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:49:32,551 - INFO - Model loaded successfully.
+2025-06-13 03:49:32,552 - INFO - Loaded 100 class name.
+2025-06-13 03:49:32,553 - INFO - Starting Flask app...
+2025-06-13 03:49:32,556 - WARNING -  * Debugger is active!
+2025-06-13 03:49:32,557 - INFO -  * Debugger PIN: 503-262-207
+2025-06-13 03:49:32,566 - INFO - 127.0.0.1 - - [13/Jun/2025 03:49:32] "GET / HTTP/1.1" 200 -
+2025-06-13 03:49:32,624 - INFO - 127.0.0.1 - - [13/Jun/2025 03:49:32] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 03:49:32,627 - INFO - 127.0.0.1 - - [13/Jun/2025 03:49:32] "GET / HTTP/1.1" 200 -
+2025-06-13 03:49:32,627 - INFO - 127.0.0.1 - - [13/Jun/2025 03:49:32] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 03:49:32,645 - INFO - 127.0.0.1 - - [13/Jun/2025 03:49:32] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 03:49:32,686 - INFO - 127.0.0.1 - - [13/Jun/2025 03:49:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 03:50:42,102 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:50:42,138 - INFO - Model loaded successfully.
+2025-06-13 03:50:42,139 - INFO - Loaded 100 class name.
+2025-06-13 03:50:42,140 - INFO - Starting Flask app...
+2025-06-13 03:50:42,144 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 03:50:42,144 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 03:50:42,144 - INFO -  * Restarting with stat
+2025-06-13 03:50:45,756 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:50:45,789 - INFO - Model loaded successfully.
+2025-06-13 03:50:45,789 - INFO - Loaded 100 class name.
+2025-06-13 03:50:45,790 - INFO - Starting Flask app...
+2025-06-13 03:50:45,794 - WARNING -  * Debugger is active!
+2025-06-13 03:50:45,794 - INFO -  * Debugger PIN: 503-262-207
+2025-06-13 03:50:51,263 - INFO - 127.0.0.1 - - [13/Jun/2025 03:50:51] "GET / HTTP/1.1" 200 -
+2025-06-13 03:50:51,365 - INFO - 127.0.0.1 - - [13/Jun/2025 03:50:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 03:50:51,366 - INFO - 127.0.0.1 - - [13/Jun/2025 03:50:51] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 03:50:51,367 - INFO - 127.0.0.1 - - [13/Jun/2025 03:50:51] "GET / HTTP/1.1" 200 -
+2025-06-13 03:50:51,390 - INFO - 127.0.0.1 - - [13/Jun/2025 03:50:51] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 03:50:51,434 - INFO - 127.0.0.1 - - [13/Jun/2025 03:50:51] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 03:54:38,011 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:54:38,046 - INFO - Model loaded successfully.
+2025-06-13 03:54:38,047 - INFO - Loaded 100 class name.
+2025-06-13 03:54:38,048 - INFO - Starting Flask app...
+2025-06-13 03:54:38,052 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 03:54:38,052 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 03:54:38,053 - INFO -  * Restarting with stat
+2025-06-13 03:54:41,634 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 03:54:41,669 - INFO - Model loaded successfully.
+2025-06-13 03:54:41,670 - INFO - Loaded 100 class name.
+2025-06-13 03:54:41,671 - INFO - Starting Flask app...
+2025-06-13 03:54:41,675 - WARNING -  * Debugger is active!
+2025-06-13 03:54:41,675 - INFO -  * Debugger PIN: 503-262-207
+2025-06-13 03:54:41,685 - INFO - 127.0.0.1 - - [13/Jun/2025 03:54:41] "GET / HTTP/1.1" 200 -
+2025-06-13 03:54:41,755 - INFO - 127.0.0.1 - - [13/Jun/2025 03:54:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 03:54:41,756 - INFO - 127.0.0.1 - - [13/Jun/2025 03:54:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 03:54:41,757 - INFO - 127.0.0.1 - - [13/Jun/2025 03:54:41] "GET / HTTP/1.1" 200 -
+2025-06-13 03:54:41,804 - INFO - 127.0.0.1 - - [13/Jun/2025 03:54:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 04:01:24,173 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 04:01:24,208 - INFO - Model loaded successfully.
+2025-06-13 04:01:24,208 - INFO - Loaded 100 class name.
+2025-06-13 04:01:24,209 - INFO - Starting Flask app...
+2025-06-13 04:01:37,396 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 04:01:37,428 - INFO - Model loaded successfully.
+2025-06-13 04:01:37,429 - INFO - Loaded 100 class name.
+2025-06-13 04:01:37,430 - INFO - Starting Flask app...
+2025-06-13 04:01:48,807 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 04:01:48,842 - INFO - Model loaded successfully.
+2025-06-13 04:01:48,842 - INFO - Loaded 100 class name.
+2025-06-13 04:01:48,843 - INFO - Starting Flask app...
+2025-06-13 04:04:19,152 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 04:04:19,187 - INFO - Model loaded successfully.
+2025-06-13 04:04:19,187 - INFO - Loaded 100 class name.
+2025-06-13 04:04:19,189 - INFO - Starting Flask app...
+2025-06-13 04:04:50,415 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 04:04:50,447 - INFO - Model loaded successfully.
+2025-06-13 04:04:50,447 - INFO - Loaded 100 class name.
+2025-06-13 04:04:50,448 - INFO - Starting Flask app...
+2025-06-13 04:04:50,452 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 04:04:50,452 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 04:04:50,453 - INFO -  * Restarting with stat
+2025-06-13 04:04:54,090 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 04:04:54,126 - INFO - Model loaded successfully.
+2025-06-13 04:04:54,126 - INFO - Loaded 100 class name.
+2025-06-13 04:04:54,127 - INFO - Starting Flask app...
+2025-06-13 04:04:54,131 - WARNING -  * Debugger is active!
+2025-06-13 04:04:54,131 - INFO -  * Debugger PIN: 476-235-588
+2025-06-13 04:04:54,482 - INFO - 127.0.0.1 - - [13/Jun/2025 04:04:54] "GET / HTTP/1.1" 200 -
+2025-06-13 04:04:54,552 - INFO - 127.0.0.1 - - [13/Jun/2025 04:04:54] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 04:04:54,553 - INFO - 127.0.0.1 - - [13/Jun/2025 04:04:54] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 04:04:54,555 - INFO - 127.0.0.1 - - [13/Jun/2025 04:04:54] "GET / HTTP/1.1" 200 -
+2025-06-13 04:04:54,564 - INFO - 127.0.0.1 - - [13/Jun/2025 04:04:54] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-06-13 04:06:08,950 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 04:06:08,982 - INFO - Model loaded successfully.
+2025-06-13 04:06:08,983 - INFO - Loaded 100 class name.
+2025-06-13 04:06:08,984 - INFO - Starting Flask app...
+2025-06-13 04:06:17,807 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 04:06:17,840 - INFO - Model loaded successfully.
+2025-06-13 04:06:17,840 - INFO - Loaded 100 class name.
+2025-06-13 04:06:17,841 - INFO - Starting Flask app...
+2025-06-13 04:06:21,120 - INFO - 127.0.0.1 - - [13/Jun/2025 04:06:21] "GET / HTTP/1.1" 200 -
+2025-06-13 04:06:21,185 - INFO - 127.0.0.1 - - [13/Jun/2025 04:06:21] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 04:06:21,186 - INFO - 127.0.0.1 - - [13/Jun/2025 04:06:21] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 04:06:21,187 - INFO - 127.0.0.1 - - [13/Jun/2025 04:06:21] "GET / HTTP/1.1" 200 -
+2025-06-13 04:06:21,209 - INFO - 127.0.0.1 - - [13/Jun/2025 04:06:21] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 04:06:21,283 - INFO - 127.0.0.1 - - [13/Jun/2025 04:06:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 04:06:24,417 - ERROR - Failed to initialize Google Drive service: [Errno 2] No such file or directory: 'media/controller/Eternal/F/Keys'
+2025-06-13 04:06:24,417 - ERROR - Drive upload error: [Errno 2] No such file or directory: 'media/controller/Eternal/F/Keys'
+2025-06-13 04:06:24,418 - ERROR - Prediction error: Google Drive upload failed
+2025-06-13 04:06:24,418 - INFO - 127.0.0.1 - - [13/Jun/2025 04:06:24] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-06-13 07:39:10,252 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 07:39:10,309 - INFO - Model loaded successfully.
+2025-06-13 07:39:10,309 - INFO - Loaded 100 class name.
+2025-06-13 07:39:10,310 - INFO - Starting Flask app...
+2025-06-13 07:39:10,321 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 07:39:10,321 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 07:39:10,322 - INFO -  * Restarting with stat
+2025-06-13 07:39:14,609 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 07:39:14,644 - INFO - Model loaded successfully.
+2025-06-13 07:39:14,645 - INFO - Loaded 100 class name.
+2025-06-13 07:39:14,646 - INFO - Starting Flask app...
+2025-06-13 07:39:14,651 - WARNING -  * Debugger is active!
+2025-06-13 07:39:14,652 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 07:39:14,662 - INFO - 127.0.0.1 - - [13/Jun/2025 07:39:14] "GET / HTTP/1.1" 200 -
+2025-06-13 07:39:14,726 - INFO - 127.0.0.1 - - [13/Jun/2025 07:39:14] "GET / HTTP/1.1" 200 -
+2025-06-13 07:39:14,739 - INFO - 127.0.0.1 - - [13/Jun/2025 07:39:14] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 07:39:14,739 - INFO - 127.0.0.1 - - [13/Jun/2025 07:39:14] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 07:39:17,855 - ERROR - Failed to initialize Google Drive service: [Errno 2] No such file or directory: 'media/controller/Eternal/F/Keys'
+2025-06-13 07:39:17,856 - ERROR - Drive upload error: [Errno 2] No such file or directory: 'media/controller/Eternal/F/Keys'
+2025-06-13 07:39:17,856 - ERROR - Prediction error: Google Drive upload failed
+2025-06-13 07:39:17,856 - INFO - 127.0.0.1 - - [13/Jun/2025 07:39:17] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-06-13 07:40:27,092 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 07:40:27,856 - INFO -  * Restarting with stat
+2025-06-13 07:40:32,144 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 07:40:32,176 - INFO - Model loaded successfully.
+2025-06-13 07:40:32,177 - INFO - Loaded 100 class name.
+2025-06-13 07:40:32,178 - INFO - Starting Flask app...
+2025-06-13 07:40:32,182 - WARNING -  * Debugger is active!
+2025-06-13 07:40:32,182 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 07:40:33,197 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 07:40:41,021 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 07:40:41,054 - INFO - Model loaded successfully.
+2025-06-13 07:40:41,055 - INFO - Loaded 100 class name.
+2025-06-13 07:40:41,055 - INFO - Starting Flask app...
+2025-06-13 07:40:41,060 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 07:40:41,060 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 07:40:41,060 - INFO -  * Restarting with stat
+2025-06-13 07:40:45,400 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 07:40:45,435 - INFO - Model loaded successfully.
+2025-06-13 07:40:45,435 - INFO - Loaded 100 class name.
+2025-06-13 07:40:45,436 - INFO - Starting Flask app...
+2025-06-13 07:40:45,440 - WARNING -  * Debugger is active!
+2025-06-13 07:40:45,440 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 07:40:45,450 - INFO - 127.0.0.1 - - [13/Jun/2025 07:40:45] "GET / HTTP/1.1" 200 -
+2025-06-13 07:40:45,499 - INFO - 127.0.0.1 - - [13/Jun/2025 07:40:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 07:40:45,500 - INFO - 127.0.0.1 - - [13/Jun/2025 07:40:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 07:40:45,502 - INFO - 127.0.0.1 - - [13/Jun/2025 07:40:45] "GET / HTTP/1.1" 200 -
+2025-06-13 07:40:49,490 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:40:53,564 - INFO - Uploaded to Google Drive. File ID: 1-9ZgZm-etmmR3ixxk4RIU37B841VSq3L
+2025-06-13 07:40:53,577 - ERROR - Prediction error: Image too small. Expected at least: (224, 224)
+2025-06-13 07:40:53,578 - INFO - 127.0.0.1 - - [13/Jun/2025 07:40:53] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-06-13 07:50:08,451 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 07:50:08,486 - INFO - Model loaded successfully.
+2025-06-13 07:50:08,486 - INFO - Loaded 100 class name.
+2025-06-13 07:50:08,487 - INFO - Starting Flask app...
+2025-06-13 07:50:08,492 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 07:50:08,492 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 07:50:08,493 - INFO -  * Restarting with stat
+2025-06-13 07:50:12,693 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 07:50:12,727 - INFO - Model loaded successfully.
+2025-06-13 07:50:12,728 - INFO - Loaded 100 class name.
+2025-06-13 07:50:12,729 - INFO - Starting Flask app...
+2025-06-13 07:50:12,733 - WARNING -  * Debugger is active!
+2025-06-13 07:50:12,733 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 07:50:12,743 - INFO - 127.0.0.1 - - [13/Jun/2025 07:50:12] "GET / HTTP/1.1" 200 -
+2025-06-13 07:50:12,836 - INFO - 127.0.0.1 - - [13/Jun/2025 07:50:12] "GET / HTTP/1.1" 200 -
+2025-06-13 07:50:12,845 - INFO - 127.0.0.1 - - [13/Jun/2025 07:50:12] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 07:50:12,845 - INFO - 127.0.0.1 - - [13/Jun/2025 07:50:12] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 07:50:21,707 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:50:25,680 - INFO - Uploaded to Google Drive. File ID: 1k2AJAHw-dez-LO58tRFn5GtOWqU-yyuH
+2025-06-13 07:50:25,748 - INFO - Resizing image from (1600, 1114) to (224, 224)
+2025-06-13 07:50:26,975 - INFO - Prediction: rugby (0.60)
+2025-06-13 07:50:27,822 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:50:27,826 - INFO - 127.0.0.1 - - [13/Jun/2025 07:50:27] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:51:07,487 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:51:11,044 - INFO - Uploaded to Google Drive. File ID: 1R3CyBpohRLvS5WV1MU3lp9PpmH5HpYY8
+2025-06-13 07:51:11,081 - INFO - Resizing image from (1600, 1114) to (224, 224)
+2025-06-13 07:51:11,174 - INFO - Prediction: rugby (0.60)
+2025-06-13 07:51:12,123 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:51:12,129 - INFO - 127.0.0.1 - - [13/Jun/2025 07:51:12] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:53:32,614 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:53:42,495 - INFO - Uploaded to Google Drive. File ID: 10firhWxIxY8djjT6mRSjgwd39phc5Pt_
+2025-06-13 07:53:42,719 - INFO - Resizing image from (5472, 3648) to (224, 224)
+2025-06-13 07:53:42,891 - INFO - Prediction: ultimate (0.33)
+2025-06-13 07:53:43,540 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:53:43,543 - INFO - 127.0.0.1 - - [13/Jun/2025 07:53:43] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:54:22,641 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:54:26,005 - INFO - Uploaded to Google Drive. File ID: 1Qa1gwD7ziirquC24mzQsBpK-K7UY4m9M
+2025-06-13 07:54:26,007 - INFO - Resizing image from (225, 224) to (224, 224)
+2025-06-13 07:54:26,090 - INFO - Prediction: judo (0.72)
+2025-06-13 07:54:26,545 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:54:26,549 - INFO - 127.0.0.1 - - [13/Jun/2025 07:54:26] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:54:57,760 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:55:05,645 - INFO - Uploaded to Google Drive. File ID: 1mm-yXXey0KYXgOl0h1UCw3k2h9Rkg6Wc
+2025-06-13 07:55:05,664 - INFO - Resizing image from (1920, 1080) to (224, 224)
+2025-06-13 07:55:05,756 - INFO - Prediction: rugby (0.26)
+2025-06-13 07:55:06,200 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:55:06,202 - INFO - 127.0.0.1 - - [13/Jun/2025 07:55:06] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:56:09,471 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:56:13,537 - INFO - Uploaded to Google Drive. File ID: 10A02uvbtAXAeK9pwgWrOKmgO8w73Aafw
+2025-06-13 07:56:13,567 - INFO - Resizing image from (1600, 1193) to (224, 224)
+2025-06-13 07:56:13,656 - INFO - Prediction: rugby (0.85)
+2025-06-13 07:56:14,399 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:56:14,403 - INFO - 127.0.0.1 - - [13/Jun/2025 07:56:14] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:58:02,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:58:07,100 - INFO - Uploaded to Google Drive. File ID: 1-Ce6gtuzlW_JlRgj0gxnUPcnOy0MMXxs
+2025-06-13 07:58:07,114 - INFO - Resizing image from (1200, 900) to (224, 224)
+2025-06-13 07:58:07,198 - INFO - Prediction: cricket (0.21)
+2025-06-13 07:58:08,629 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:58:08,633 - INFO - 127.0.0.1 - - [13/Jun/2025 07:58:08] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:58:36,453 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:58:41,416 - INFO - Uploaded to Google Drive. File ID: 1zkVxgsg12Z0yRwCeWzvVWi_-mYa0jdLn
+2025-06-13 07:58:41,454 - INFO - Resizing image from (1733, 1419) to (224, 224)
+2025-06-13 07:58:41,549 - INFO - Prediction: rugby (0.19)
+2025-06-13 07:58:42,436 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:58:42,440 - INFO - 127.0.0.1 - - [13/Jun/2025 07:58:42] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:59:12,663 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 07:59:16,426 - INFO - Uploaded to Google Drive. File ID: 1f8c_lGdHhUghafX2OEyMqSNPUimIcULK
+2025-06-13 07:59:16,433 - INFO - Resizing image from (960, 540) to (224, 224)
+2025-06-13 07:59:16,518 - INFO - Prediction: field hockey (0.47)
+2025-06-13 07:59:17,480 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 07:59:17,483 - INFO - 127.0.0.1 - - [13/Jun/2025 07:59:17] "POST /predict HTTP/1.1" 200 -
+2025-06-13 07:59:48,075 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 07:59:48,846 - INFO -  * Restarting with stat
+2025-06-13 07:59:51,949 - ERROR - Failed to load model: [Errno 2] Unable to synchronously open file (unable to open file: name = '/media/controller/Eternal/F/model/model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-06-13 08:00:20,904 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:00:20,938 - INFO - Model loaded successfully.
+2025-06-13 08:00:20,939 - INFO - Loaded 100 class name.
+2025-06-13 08:00:20,940 - INFO - Starting Flask app...
+2025-06-13 08:00:20,944 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:00:20,944 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:00:20,945 - INFO -  * Restarting with stat
+2025-06-13 08:00:25,058 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:00:25,093 - INFO - Model loaded successfully.
+2025-06-13 08:00:25,093 - INFO - Loaded 100 class name.
+2025-06-13 08:00:25,094 - INFO - Starting Flask app...
+2025-06-13 08:00:25,098 - WARNING -  * Debugger is active!
+2025-06-13 08:00:25,098 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:00:28,374 - INFO - 127.0.0.1 - - [13/Jun/2025 08:00:28] "GET / HTTP/1.1" 200 -
+2025-06-13 08:00:28,459 - INFO - 127.0.0.1 - - [13/Jun/2025 08:00:28] "GET / HTTP/1.1" 200 -
+2025-06-13 08:00:28,470 - INFO - 127.0.0.1 - - [13/Jun/2025 08:00:28] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 08:00:28,470 - INFO - 127.0.0.1 - - [13/Jun/2025 08:00:28] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:00:32,400 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:00:36,811 - INFO - Uploaded to Google Drive. File ID: 1cujSaswn025rEIhPKaxhppELZ-Iy24tA
+2025-06-13 08:00:36,824 - INFO - Resizing image from (960, 540) to (224, 224)
+2025-06-13 08:00:38,018 - INFO - Prediction: lacrosse (0.32)
+2025-06-13 08:00:41,215 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:00:41,219 - INFO - 127.0.0.1 - - [13/Jun/2025 08:00:41] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:03:12,227 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:03:12,265 - INFO - Model loaded successfully.
+2025-06-13 08:03:12,267 - INFO - Loaded 10 class name.
+2025-06-13 08:03:12,268 - INFO - Starting Flask app...
+2025-06-13 08:03:12,273 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:03:12,273 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:03:12,274 - INFO -  * Restarting with stat
+2025-06-13 08:03:16,809 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:03:16,844 - INFO - Model loaded successfully.
+2025-06-13 08:03:16,845 - INFO - Loaded 10 class name.
+2025-06-13 08:03:16,846 - INFO - Starting Flask app...
+2025-06-13 08:03:16,849 - WARNING -  * Debugger is active!
+2025-06-13 08:03:16,849 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:03:16,859 - INFO - 127.0.0.1 - - [13/Jun/2025 08:03:16] "GET / HTTP/1.1" 200 -
+2025-06-13 08:03:16,910 - INFO - 127.0.0.1 - - [13/Jun/2025 08:03:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 08:03:16,913 - INFO - 127.0.0.1 - - [13/Jun/2025 08:03:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:03:16,914 - INFO - 127.0.0.1 - - [13/Jun/2025 08:03:16] "GET / HTTP/1.1" 200 -
+2025-06-13 08:03:20,125 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:03:25,056 - INFO - Uploaded to Google Drive. File ID: 1k_SAav1wAUdPFfj8IRWDaoH_kGAOhSbs
+2025-06-13 08:03:25,071 - INFO - Resizing image from (960, 540) to (224, 224)
+2025-06-13 08:03:26,278 - INFO - Prediction: Unknown (0.32)
+2025-06-13 08:03:27,719 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:03:27,722 - INFO - 127.0.0.1 - - [13/Jun/2025 08:03:27] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:04:43,459 - INFO - 127.0.0.1 - - [13/Jun/2025 08:04:43] "GET / HTTP/1.1" 200 -
+2025-06-13 08:04:43,477 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:04:52,651 - INFO - Uploaded to Google Drive. File ID: 1uFHesMfPqMkj2B5NcastluUZeMF6AO6S
+2025-06-13 08:04:52,864 - INFO - Resizing image from (5472, 3648) to (224, 224)
+2025-06-13 08:04:53,039 - INFO - Prediction: Unknown (0.36)
+2025-06-13 08:04:54,044 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:04:54,048 - INFO - 127.0.0.1 - - [13/Jun/2025 08:04:54] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:05:20,958 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:05:24,757 - INFO - Uploaded to Google Drive. File ID: 1QsdZPbdw4g-kk66XuAIGGmZfWH7Jkot1
+2025-06-13 08:05:24,761 - INFO - Resizing image from (1200, 675) to (224, 224)
+2025-06-13 08:05:24,846 - INFO - Prediction: Unknown (0.27)
+2025-06-13 08:05:25,856 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:05:25,860 - INFO - 127.0.0.1 - - [13/Jun/2025 08:05:25] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:14:25,398 - ERROR - Failed to load model: [Errno 2] Unable to synchronously open file (unable to open file: name = '/media/controller/Eternal/F/model/model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-06-13 08:15:14,898 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:15:14,932 - INFO - Model loaded successfully.
+2025-06-13 08:15:14,933 - ERROR - Failed to load class names from CSV: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/class_names.csv'
+2025-06-13 08:15:14,933 - INFO - Starting Flask app...
+2025-06-13 08:15:14,938 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:15:14,938 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:15:14,938 - INFO -  * Restarting with stat
+2025-06-13 08:15:19,410 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:15:19,447 - INFO - Model loaded successfully.
+2025-06-13 08:15:19,448 - ERROR - Failed to load class names from CSV: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/class_names.csv'
+2025-06-13 08:15:19,449 - INFO - Starting Flask app...
+2025-06-13 08:15:19,453 - WARNING -  * Debugger is active!
+2025-06-13 08:15:19,453 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:15:19,462 - INFO - 127.0.0.1 - - [13/Jun/2025 08:15:19] "GET / HTTP/1.1" 200 -
+2025-06-13 08:15:19,519 - INFO - 127.0.0.1 - - [13/Jun/2025 08:15:19] "GET / HTTP/1.1" 200 -
+2025-06-13 08:15:19,529 - INFO - 127.0.0.1 - - [13/Jun/2025 08:15:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 08:15:19,530 - INFO - 127.0.0.1 - - [13/Jun/2025 08:15:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:15:23,409 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:15:27,498 - INFO - Uploaded to Google Drive. File ID: 1NMkLXZRzoGlAYGBiPUQCpv4QTLQbvFBw
+2025-06-13 08:15:27,510 - INFO - Resizing image from (960, 540) to (224, 224)
+2025-06-13 08:15:28,773 - INFO - Prediction: Unknown (0.47)
+2025-06-13 08:15:29,642 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 401 Unauthorized"
+2025-06-13 08:15:29,648 - ERROR - Prediction error: {'message': 'JSON could not be generated', 'code': 401, 'hint': 'Refer to full message for details', 'details': 'b\'{"message":"Invalid API key","hint":"Double check your Supabase `anon` or `service_role` API key."}\''}
+2025-06-13 08:15:29,649 - INFO - 127.0.0.1 - - [13/Jun/2025 08:15:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-06-13 08:16:22,858 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 08:16:23,699 - INFO -  * Restarting with stat
+2025-06-13 08:16:32,877 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:16:32,910 - INFO - Model loaded successfully.
+2025-06-13 08:16:32,911 - ERROR - Failed to load class names from CSV: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/sports.csv'
+2025-06-13 08:16:32,912 - INFO - Starting Flask app...
+2025-06-13 08:16:32,916 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:16:32,916 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:16:32,917 - INFO -  * Restarting with stat
+2025-06-13 08:16:37,342 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:16:37,376 - INFO - Model loaded successfully.
+2025-06-13 08:16:37,377 - ERROR - Failed to load class names from CSV: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/sports.csv'
+2025-06-13 08:16:37,378 - INFO - Starting Flask app...
+2025-06-13 08:16:37,381 - WARNING -  * Debugger is active!
+2025-06-13 08:16:37,382 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:16:37,391 - INFO - 127.0.0.1 - - [13/Jun/2025 08:16:37] "GET / HTTP/1.1" 200 -
+2025-06-13 08:16:37,443 - INFO - 127.0.0.1 - - [13/Jun/2025 08:16:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 08:16:37,443 - INFO - 127.0.0.1 - - [13/Jun/2025 08:16:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:16:37,444 - INFO - 127.0.0.1 - - [13/Jun/2025 08:16:37] "GET / HTTP/1.1" 200 -
+2025-06-13 08:16:42,323 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:16:45,856 - INFO - Uploaded to Google Drive. File ID: 1-kZdt3ckAnL4Y9oCoMMK-iwg4XbcIvp-
+2025-06-13 08:16:45,871 - INFO - Resizing image from (1200, 675) to (224, 224)
+2025-06-13 08:16:47,050 - INFO - Prediction: Unknown (0.37)
+2025-06-13 08:16:47,810 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 401 Unauthorized"
+2025-06-13 08:16:47,811 - ERROR - Prediction error: {'message': 'JSON could not be generated', 'code': 401, 'hint': 'Refer to full message for details', 'details': 'b\'{"message":"Invalid API key","hint":"Double check your Supabase `anon` or `service_role` API key."}\''}
+2025-06-13 08:16:47,812 - INFO - 127.0.0.1 - - [13/Jun/2025 08:16:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-06-13 08:17:09,645 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 08:17:10,397 - INFO -  * Restarting with stat
+2025-06-13 08:17:14,938 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:17:14,971 - INFO - Model loaded successfully.
+2025-06-13 08:17:14,972 - ERROR - Failed to load class names from CSV: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/sports.csv'
+2025-06-13 08:17:14,973 - INFO - Starting Flask app...
+2025-06-13 08:17:14,977 - WARNING -  * Debugger is active!
+2025-06-13 08:17:14,977 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:17:23,039 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 08:17:23,763 - INFO -  * Restarting with stat
+2025-06-13 08:17:33,121 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:17:33,153 - INFO - Model loaded successfully.
+2025-06-13 08:17:33,154 - ERROR - Failed to load class names from CSV: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/sports.csv'
+2025-06-13 08:17:33,155 - INFO - Starting Flask app...
+2025-06-13 08:17:33,160 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:17:33,160 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:17:33,160 - INFO -  * Restarting with stat
+2025-06-13 08:17:37,676 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:17:37,709 - INFO - Model loaded successfully.
+2025-06-13 08:17:37,710 - ERROR - Failed to load class names from CSV: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/sports.csv'
+2025-06-13 08:17:37,711 - INFO - Starting Flask app...
+2025-06-13 08:17:37,714 - WARNING -  * Debugger is active!
+2025-06-13 08:17:37,714 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:17:43,619 - INFO - 127.0.0.1 - - [13/Jun/2025 08:17:43] "GET / HTTP/1.1" 200 -
+2025-06-13 08:17:43,699 - INFO - 127.0.0.1 - - [13/Jun/2025 08:17:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 08:17:43,699 - INFO - 127.0.0.1 - - [13/Jun/2025 08:17:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:17:43,701 - INFO - 127.0.0.1 - - [13/Jun/2025 08:17:43] "GET / HTTP/1.1" 200 -
+2025-06-13 08:17:47,193 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:17:51,255 - INFO - Uploaded to Google Drive. File ID: 1KTNV1TnhGerOy-JUc7jHB0moPBSN6f1i
+2025-06-13 08:17:51,267 - INFO - Resizing image from (1200, 675) to (224, 224)
+2025-06-13 08:17:52,467 - INFO - Prediction: Unknown (0.37)
+2025-06-13 08:17:53,463 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:17:53,467 - INFO - 127.0.0.1 - - [13/Jun/2025 08:17:53] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:18:15,484 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:18:18,815 - INFO - Uploaded to Google Drive. File ID: 1eFVKLEB6Q_Ux2WadQeFSQT71KLIbjQ-Y
+2025-06-13 08:18:18,822 - INFO - Resizing image from (960, 540) to (224, 224)
+2025-06-13 08:18:18,912 - INFO - Prediction: Unknown (0.47)
+2025-06-13 08:18:19,220 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:18:19,223 - INFO - 127.0.0.1 - - [13/Jun/2025 08:18:19] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:18:26,501 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:18:30,182 - INFO - Uploaded to Google Drive. File ID: 1fihNfIK1L9k_R-zaytWt3vZqxWAIrP2j
+2025-06-13 08:18:30,201 - INFO - Resizing image from (1920, 1080) to (224, 224)
+2025-06-13 08:18:30,298 - INFO - Prediction: Unknown (0.26)
+2025-06-13 08:18:30,644 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:18:30,647 - INFO - 127.0.0.1 - - [13/Jun/2025 08:18:30] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:24:41,280 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 08:24:42,113 - INFO -  * Restarting with stat
+2025-06-13 08:24:54,037 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:24:54,070 - INFO - Model loaded successfully.
+2025-06-13 08:24:54,071 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/class_names.txt'
+2025-06-13 08:24:54,072 - INFO - Starting Flask app...
+2025-06-13 08:24:54,077 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:24:54,077 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:24:54,077 - INFO -  * Restarting with stat
+2025-06-13 08:24:58,467 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:24:58,500 - INFO - Model loaded successfully.
+2025-06-13 08:24:58,501 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/CSV/class_names.txt'
+2025-06-13 08:24:58,501 - INFO - Starting Flask app...
+2025-06-13 08:24:58,505 - WARNING -  * Debugger is active!
+2025-06-13 08:24:58,506 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:25:09,585 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 08:25:10,335 - INFO -  * Restarting with stat
+2025-06-13 08:25:14,731 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:25:14,764 - INFO - Model loaded successfully.
+2025-06-13 08:25:14,765 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/class_names.txt'
+2025-06-13 08:25:14,766 - INFO - Starting Flask app...
+2025-06-13 08:25:14,771 - WARNING -  * Debugger is active!
+2025-06-13 08:25:14,771 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:25:27,101 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:25:27,132 - INFO - Model loaded successfully.
+2025-06-13 08:25:27,133 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/class_names.txt'
+2025-06-13 08:25:27,134 - INFO - Starting Flask app...
+2025-06-13 08:25:27,139 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:25:27,139 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:25:27,140 - INFO -  * Restarting with stat
+2025-06-13 08:25:31,582 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:25:31,614 - INFO - Model loaded successfully.
+2025-06-13 08:25:31,615 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/class_names.txt'
+2025-06-13 08:25:31,616 - INFO - Starting Flask app...
+2025-06-13 08:25:31,619 - WARNING -  * Debugger is active!
+2025-06-13 08:25:31,619 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:25:36,520 - INFO - 127.0.0.1 - - [13/Jun/2025 08:25:36] "GET / HTTP/1.1" 200 -
+2025-06-13 08:25:36,611 - INFO - 127.0.0.1 - - [13/Jun/2025 08:25:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 08:25:36,612 - INFO - 127.0.0.1 - - [13/Jun/2025 08:25:36] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:25:36,613 - INFO - 127.0.0.1 - - [13/Jun/2025 08:25:36] "GET / HTTP/1.1" 200 -
+2025-06-13 08:25:39,849 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:25:43,647 - INFO - Uploaded to Google Drive. File ID: 1G518nleSdL74uIGtOIdLNoMp_9kqvUGF
+2025-06-13 08:25:43,661 - INFO - Resizing image from (1200, 675) to (224, 224)
+2025-06-13 08:25:44,857 - INFO - Prediction: Unknown (0.37)
+2025-06-13 08:25:46,097 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:25:46,101 - INFO - 127.0.0.1 - - [13/Jun/2025 08:25:46] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:41:49,927 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:41:49,959 - INFO - Model loaded successfully.
+2025-06-13 08:41:49,960 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/class_names.txt'
+2025-06-13 08:41:49,960 - INFO - Starting Flask app...
+2025-06-13 08:41:49,965 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:41:49,965 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:41:49,966 - INFO -  * Restarting with stat
+2025-06-13 08:41:54,519 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:41:54,553 - INFO - Model loaded successfully.
+2025-06-13 08:41:54,553 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/class_names.txt'
+2025-06-13 08:41:54,554 - INFO - Starting Flask app...
+2025-06-13 08:41:54,558 - WARNING -  * Debugger is active!
+2025-06-13 08:41:54,558 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:41:56,749 - INFO - 127.0.0.1 - - [13/Jun/2025 08:41:56] "GET / HTTP/1.1" 200 -
+2025-06-13 08:41:56,834 - INFO - 127.0.0.1 - - [13/Jun/2025 08:41:56] "GET / HTTP/1.1" 200 -
+2025-06-13 08:41:56,848 - INFO - 127.0.0.1 - - [13/Jun/2025 08:41:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 08:41:56,848 - INFO - 127.0.0.1 - - [13/Jun/2025 08:41:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:42:00,969 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:42:04,651 - INFO - Uploaded to Google Drive. File ID: 1CiQEctvFhzuKrXo2ZjUqS_0X2gBZRkki
+2025-06-13 08:42:04,708 - INFO - Resizing image from (1600, 1193) to (224, 224)
+2025-06-13 08:42:05,948 - INFO - Prediction: Unknown (0.85)
+2025-06-13 08:42:07,211 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:42:07,215 - INFO - 127.0.0.1 - - [13/Jun/2025 08:42:07] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:54:13,983 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 08:54:14,760 - INFO -  * Restarting with stat
+2025-06-13 08:56:06,916 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:56:06,950 - INFO - Model loaded successfully.
+2025-06-13 08:56:06,950 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/class_names.txt'
+2025-06-13 08:56:06,951 - INFO - Starting Flask app...
+2025-06-13 08:56:06,956 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:56:06,956 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:56:06,956 - INFO -  * Restarting with stat
+2025-06-13 08:56:11,388 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:56:11,422 - INFO - Model loaded successfully.
+2025-06-13 08:56:11,423 - ERROR - Failed to load class names from TXT: [Errno 2] No such file or directory: '/media/controller/Eternal/Sport_classification/class_names.txt'
+2025-06-13 08:56:11,424 - INFO - Starting Flask app...
+2025-06-13 08:56:11,427 - WARNING -  * Debugger is active!
+2025-06-13 08:56:11,428 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:56:11,437 - INFO - 127.0.0.1 - - [13/Jun/2025 08:56:11] "GET / HTTP/1.1" 200 -
+2025-06-13 08:56:11,494 - INFO - 127.0.0.1 - - [13/Jun/2025 08:56:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 08:56:11,494 - INFO - 127.0.0.1 - - [13/Jun/2025 08:56:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:56:11,496 - INFO - 127.0.0.1 - - [13/Jun/2025 08:56:11] "GET / HTTP/1.1" 200 -
+2025-06-13 08:56:17,256 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:56:24,515 - INFO - Uploaded to Google Drive. File ID: 1LsQvG8Rhg9HqnaIFPm_9FCKTxPL5Hu0O
+2025-06-13 08:56:24,536 - INFO - Resizing image from (1920, 1080) to (224, 224)
+2025-06-13 08:56:25,688 - INFO - Prediction: Unknown (0.26)
+2025-06-13 08:56:26,829 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:56:26,833 - INFO - 127.0.0.1 - - [13/Jun/2025 08:56:26] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:58:01,100 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 08:58:01,884 - INFO -  * Restarting with stat
+2025-06-13 08:58:06,281 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:58:06,314 - INFO - Model loaded successfully.
+2025-06-13 08:58:06,315 - INFO - Loaded 147 class names from TXT.
+2025-06-13 08:58:06,316 - INFO - Starting Flask app...
+2025-06-13 08:58:06,319 - WARNING -  * Debugger is active!
+2025-06-13 08:58:06,320 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:58:16,391 - INFO -  * Detected change in '/media/controller/Eternal/F/app.py', reloading
+2025-06-13 08:58:17,104 - INFO -  * Restarting with stat
+2025-06-13 08:58:21,570 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:58:21,604 - INFO - Model loaded successfully.
+2025-06-13 08:58:21,605 - INFO - Loaded 100 class names from TXT.
+2025-06-13 08:58:21,606 - INFO - Starting Flask app...
+2025-06-13 08:58:21,610 - WARNING -  * Debugger is active!
+2025-06-13 08:58:21,611 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:58:30,017 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:58:30,051 - INFO - Model loaded successfully.
+2025-06-13 08:58:30,051 - INFO - Loaded 100 class names from TXT.
+2025-06-13 08:58:30,052 - INFO - Starting Flask app...
+2025-06-13 08:58:30,057 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.152.175:5000
+2025-06-13 08:58:30,057 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 08:58:30,057 - INFO -  * Restarting with stat
+2025-06-13 08:58:34,466 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 08:58:34,500 - INFO - Model loaded successfully.
+2025-06-13 08:58:34,501 - INFO - Loaded 100 class names from TXT.
+2025-06-13 08:58:34,501 - INFO - Starting Flask app...
+2025-06-13 08:58:34,505 - WARNING -  * Debugger is active!
+2025-06-13 08:58:34,505 - INFO -  * Debugger PIN: 137-978-831
+2025-06-13 08:58:34,515 - INFO - 127.0.0.1 - - [13/Jun/2025 08:58:34] "GET / HTTP/1.1" 200 -
+2025-06-13 08:58:34,578 - INFO - 127.0.0.1 - - [13/Jun/2025 08:58:34] "GET / HTTP/1.1" 200 -
+2025-06-13 08:58:34,587 - INFO - 127.0.0.1 - - [13/Jun/2025 08:58:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 08:58:34,587 - INFO - 127.0.0.1 - - [13/Jun/2025 08:58:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 08:58:38,213 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:58:44,032 - INFO - Uploaded to Google Drive. File ID: 181-Qbms_c4cpMYFnB3rUMPZqm649H-r-
+2025-06-13 08:58:44,055 - INFO - Resizing image from (1920, 1080) to (224, 224)
+2025-06-13 08:58:45,270 - INFO - Prediction: rugby (0.26)
+2025-06-13 08:58:46,540 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:58:46,544 - INFO - 127.0.0.1 - - [13/Jun/2025 08:58:46] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:58:58,172 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:59:01,551 - INFO - Uploaded to Google Drive. File ID: 1DDh-FWB50YbjdDlFoREdkkYq7LDHEDOR
+2025-06-13 08:59:01,552 - INFO - Resizing image from (225, 224) to (224, 224)
+2025-06-13 08:59:01,641 - INFO - Prediction: judo (0.72)
+2025-06-13 08:59:02,618 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:59:02,667 - INFO - 127.0.0.1 - - [13/Jun/2025 08:59:02] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:59:09,427 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:59:17,983 - INFO - Uploaded to Google Drive. File ID: 1VWjgI3QUJwynj_re0mUbKD1kAkXI4pO2
+2025-06-13 08:59:18,014 - INFO - Resizing image from (2560, 1707) to (224, 224)
+2025-06-13 08:59:18,114 - INFO - Prediction: weightlifting (0.12)
+2025-06-13 08:59:18,733 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:59:18,736 - INFO - 127.0.0.1 - - [13/Jun/2025 08:59:18] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:59:25,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 08:59:29,452 - INFO - Uploaded to Google Drive. File ID: 1oBvT-zjZJ_QZh3A-WV6lEvmp0xF9kp9r
+2025-06-13 08:59:29,460 - INFO - Resizing image from (960, 540) to (224, 224)
+2025-06-13 08:59:29,545 - INFO - Prediction: field hockey (0.47)
+2025-06-13 08:59:30,783 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 08:59:30,787 - INFO - 127.0.0.1 - - [13/Jun/2025 08:59:30] "POST /predict HTTP/1.1" 200 -
+2025-06-13 08:59:52,271 - INFO - 127.0.0.1 - - [13/Jun/2025 08:59:52] "GET / HTTP/1.1" 200 -
+2025-06-13 08:59:52,289 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 09:00:09,824 - INFO - Uploaded to Google Drive. File ID: 1KYmN6w8cYvVY3Yjmm5_6V_Vlmx7n3LGD
+2025-06-13 09:00:10,033 - INFO - Resizing image from (5711, 3807) to (224, 224)
+2025-06-13 09:00:10,205 - INFO - Prediction: figure skating pairs (0.05)
+2025-06-13 09:00:10,860 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 09:00:10,867 - INFO - 127.0.0.1 - - [13/Jun/2025 09:00:10] "POST /predict HTTP/1.1" 200 -
+2025-06-13 09:00:19,632 - INFO - 127.0.0.1 - - [13/Jun/2025 09:00:19] "GET / HTTP/1.1" 200 -
+2025-06-13 09:00:19,648 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 09:00:26,217 - INFO - 127.0.0.1 - - [13/Jun/2025 09:00:26] "GET / HTTP/1.1" 200 -
+2025-06-13 09:00:26,241 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 09:00:35,727 - INFO - Uploaded to Google Drive. File ID: 1Va5BO0SZiG_oLmIrDwWvY_gY6KXRc-pr
+2025-06-13 09:00:35,909 - INFO - Resizing image from (5711, 3807) to (224, 224)
+2025-06-13 09:00:36,084 - INFO - Prediction: figure skating pairs (0.05)
+2025-06-13 09:00:36,699 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 09:00:36,704 - INFO - 127.0.0.1 - - [13/Jun/2025 09:00:36] "POST /predict HTTP/1.1" 200 -
+2025-06-13 09:00:56,494 - INFO - Uploaded to Google Drive. File ID: 1KHjGYtnAM1bOy_p2w0DN6GmDQYPjicMx
+2025-06-13 09:00:56,680 - INFO - Resizing image from (5188, 4050) to (224, 224)
+2025-06-13 09:00:56,855 - INFO - Prediction: rings (0.23)
+2025-06-13 09:00:57,192 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 09:00:57,196 - INFO - 127.0.0.1 - - [13/Jun/2025 09:00:57] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:26:19,376 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 10:26:19,457 - INFO - Model loaded successfully.
+2025-06-13 10:26:19,458 - INFO - Loaded 100 class names from TXT.
+2025-06-13 10:26:19,459 - INFO - Starting Flask app...
+2025-06-13 10:26:19,472 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2025-06-13 10:26:19,473 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 10:26:19,474 - INFO -  * Restarting with stat
+2025-06-13 10:26:25,471 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 10:26:25,522 - INFO - Model loaded successfully.
+2025-06-13 10:26:25,523 - INFO - Loaded 100 class names from TXT.
+2025-06-13 10:26:25,525 - INFO - Starting Flask app...
+2025-06-13 10:26:25,532 - WARNING -  * Debugger is active!
+2025-06-13 10:26:25,594 - INFO -  * Debugger PIN: 121-856-794
+2025-06-13 10:26:31,077 - INFO - 127.0.0.1 - - [13/Jun/2025 10:26:31] "GET / HTTP/1.1" 200 -
+2025-06-13 10:26:31,218 - INFO - 127.0.0.1 - - [13/Jun/2025 10:26:31] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 10:26:31,218 - INFO - 127.0.0.1 - - [13/Jun/2025 10:26:31] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 10:26:31,221 - INFO - 127.0.0.1 - - [13/Jun/2025 10:26:31] "GET / HTTP/1.1" 200 -
+2025-06-13 10:26:44,884 - INFO - 127.0.0.1 - - [13/Jun/2025 10:26:44] "GET / HTTP/1.1" 200 -
+2025-06-13 10:26:44,899 - INFO - 127.0.0.1 - - [13/Jun/2025 10:26:44] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-06-13 10:26:57,445 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:27:00,955 - INFO - Uploaded to Google Drive. File ID: 1fjPpRJW_0kcMOLyT4T5c-Jn4s0SMfwuF
+2025-06-13 10:27:00,974 - INFO - Resizing image from (225, 224) to (224, 224)
+2025-06-13 10:27:02,796 - INFO - Prediction: judo (0.72)
+2025-06-13 10:27:03,949 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:27:03,953 - INFO - 127.0.0.1 - - [13/Jun/2025 10:27:03] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:28:00,568 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:28:04,800 - INFO - Uploaded to Google Drive. File ID: 1i9E5gd4_c2bVaL1KAcSkPbvfsjuZBkh-
+2025-06-13 10:28:04,879 - INFO - Resizing image from (1440, 810) to (224, 224)
+2025-06-13 10:28:04,994 - INFO - Prediction: judo (0.49)
+2025-06-13 10:28:05,958 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:28:05,962 - INFO - 127.0.0.1 - - [13/Jun/2025 10:28:05] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:28:15,562 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:28:19,828 - INFO - Uploaded to Google Drive. File ID: 1vXsYzDj1l3wEF5QlVX5XcEsCrKsqG7as
+2025-06-13 10:28:19,858 - INFO - Resizing image from (2560, 1707) to (224, 224)
+2025-06-13 10:28:20,001 - INFO - Prediction: weightlifting (0.12)
+2025-06-13 10:28:20,415 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:28:20,419 - INFO - 127.0.0.1 - - [13/Jun/2025 10:28:20] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:28:45,677 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:29:00,023 - INFO - Uploaded to Google Drive. File ID: 1CIa9-eWuby7cn1r8_z8ZdQ1zS8zKMb-_
+2025-06-13 10:29:00,316 - INFO - Resizing image from (5188, 4050) to (224, 224)
+2025-06-13 10:29:00,561 - INFO - Prediction: rings (0.23)
+2025-06-13 10:29:00,896 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:29:00,900 - INFO - 127.0.0.1 - - [13/Jun/2025 10:29:00] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:30:22,748 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:30:26,039 - INFO - Uploaded to Google Drive. File ID: 1ziMVAlOPByBh-AVuGdoZaW7HHesfjyM_
+2025-06-13 10:30:26,045 - INFO - Resizing image from (720, 405) to (224, 224)
+2025-06-13 10:30:26,156 - INFO - Prediction: shot put (0.19)
+2025-06-13 10:30:27,065 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:30:27,070 - INFO - 127.0.0.1 - - [13/Jun/2025 10:30:27] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:31:06,648 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:31:11,367 - INFO - Uploaded to Google Drive. File ID: 1WYjFlkaJTz539QPdV41QHuFwkr5nU6dY
+2025-06-13 10:31:11,372 - INFO - Resizing image from (1024, 683) to (224, 224)
+2025-06-13 10:31:11,487 - INFO - Prediction: amputee football (0.24)
+2025-06-13 10:31:12,063 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:31:12,068 - INFO - 127.0.0.1 - - [13/Jun/2025 10:31:12] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:31:52,207 - INFO - 127.0.0.1 - - [13/Jun/2025 10:31:52] "GET / HTTP/1.1" 200 -
+2025-06-13 10:31:52,243 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:32:09,654 - INFO - Uploaded to Google Drive. File ID: 11T3zjyATESg8o5QqVy_xtnfe6wsodMg-
+2025-06-13 10:32:09,746 - INFO - Resizing image from (4484, 2904) to (224, 224)
+2025-06-13 10:32:09,936 - INFO - Prediction: baseball (0.47)
+2025-06-13 10:32:11,355 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:32:11,360 - INFO - 127.0.0.1 - - [13/Jun/2025 10:32:11] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:32:16,044 - INFO - 127.0.0.1 - - [13/Jun/2025 10:32:16] "GET / HTTP/1.1" 200 -
+2025-06-13 10:32:16,192 - INFO - 127.0.0.1 - - [13/Jun/2025 10:32:16] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 10:32:16,194 - INFO - 127.0.0.1 - - [13/Jun/2025 10:32:16] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 10:32:16,196 - INFO - 127.0.0.1 - - [13/Jun/2025 10:32:16] "GET / HTTP/1.1" 200 -
+2025-06-13 10:32:16,257 - INFO - 127.0.0.1 - - [13/Jun/2025 10:32:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 10:32:58,427 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:33:04,908 - INFO - Uploaded to Google Drive. File ID: 1-cQQ6PocGO_lRKClMTdesfIF74U4Rp4V
+2025-06-13 10:33:04,935 - INFO - Resizing image from (1920, 1079) to (224, 224)
+2025-06-13 10:33:05,100 - INFO - Prediction: boxing (0.35)
+2025-06-13 10:33:06,240 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:33:06,244 - INFO - 127.0.0.1 - - [13/Jun/2025 10:33:06] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:34:50,107 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:34:54,020 - INFO - Uploaded to Google Drive. File ID: 1K9gEoehWUyKoSothxWs5GiOH0sk42gRk
+2025-06-13 10:34:54,133 - INFO - Prediction: roller derby (0.87)
+2025-06-13 10:34:55,502 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:34:55,506 - INFO - 127.0.0.1 - - [13/Jun/2025 10:34:55] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:35:18,487 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:35:21,715 - INFO - Uploaded to Google Drive. File ID: 1fLWxnSjTymsNKhNRnbO1GoSawgl-Ai-8
+2025-06-13 10:35:21,820 - INFO - Prediction: rugby (0.12)
+2025-06-13 10:35:22,433 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:35:22,436 - INFO - 127.0.0.1 - - [13/Jun/2025 10:35:22] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:36:21,463 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:36:26,325 - INFO - Uploaded to Google Drive. File ID: 136dyb_rxADHy5oJMRA_qmlcZRJE0eQv-
+2025-06-13 10:36:26,455 - INFO - Prediction: figure skating women (0.17)
+2025-06-13 10:36:26,919 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:36:26,934 - INFO - 127.0.0.1 - - [13/Jun/2025 10:36:26] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:37:02,064 - INFO - 127.0.0.1 - - [13/Jun/2025 10:37:02] "GET / HTTP/1.1" 200 -
+2025-06-13 10:37:02,264 - INFO - 127.0.0.1 - - [13/Jun/2025 10:37:02] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 10:37:02,265 - INFO - 127.0.0.1 - - [13/Jun/2025 10:37:02] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 10:37:02,267 - INFO - 127.0.0.1 - - [13/Jun/2025 10:37:02] "GET / HTTP/1.1" 200 -
+2025-06-13 10:37:02,306 - INFO - 127.0.0.1 - - [13/Jun/2025 10:37:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 10:37:38,964 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:37:44,402 - INFO - Uploaded to Google Drive. File ID: 16zLEpk-wCHDqmAaQxXTKJVOwqzDvCjbK
+2025-06-13 10:37:44,425 - INFO - Resizing image from (1920, 1080) to (224, 224)
+2025-06-13 10:37:44,556 - INFO - Prediction: rugby (0.26)
+2025-06-13 10:37:45,982 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:37:45,986 - INFO - 127.0.0.1 - - [13/Jun/2025 10:37:45] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:38:03,803 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:38:07,678 - INFO - Uploaded to Google Drive. File ID: 10_9Bt-xU9WnPqqILH-anuKyZlqNvo8Pf
+2025-06-13 10:38:07,708 - INFO - Resizing image from (2560, 1707) to (224, 224)
+2025-06-13 10:38:07,847 - INFO - Prediction: weightlifting (0.12)
+2025-06-13 10:38:08,426 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:38:08,434 - INFO - 127.0.0.1 - - [13/Jun/2025 10:38:08] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:38:17,905 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:38:21,089 - INFO - Uploaded to Google Drive. File ID: 1-dstHaJM8RAgOe78BKrVI6cCk39dqd5D
+2025-06-13 10:38:21,091 - INFO - Resizing image from (225, 224) to (224, 224)
+2025-06-13 10:38:21,213 - INFO - Prediction: judo (0.72)
+2025-06-13 10:38:22,435 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:38:22,440 - INFO - 127.0.0.1 - - [13/Jun/2025 10:38:22] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:40:28,333 - INFO - 127.0.0.1 - - [13/Jun/2025 10:40:28] "GET / HTTP/1.1" 200 -
+2025-06-13 10:40:28,357 - INFO - 127.0.0.1 - - [13/Jun/2025 10:40:28] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-06-13 10:42:00,947 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:00] "GET / HTTP/1.1" 200 -
+2025-06-13 10:42:01,064 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:01] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-13 10:42:01,064 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:01] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-06-13 10:42:01,067 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:01] "GET / HTTP/1.1" 200 -
+2025-06-13 10:42:01,098 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 10:42:23,059 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 10:42:23,107 - INFO - Model loaded successfully.
+2025-06-13 10:42:23,108 - INFO - Loaded 100 class names from TXT.
+2025-06-13 10:42:23,110 - INFO - Starting Flask app...
+2025-06-13 10:42:23,116 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-06-13 10:42:23,116 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 10:42:23,117 - INFO -  * Restarting with stat
+2025-06-13 10:42:29,162 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 10:42:29,211 - INFO - Model loaded successfully.
+2025-06-13 10:42:29,212 - INFO - Loaded 100 class names from TXT.
+2025-06-13 10:42:29,214 - INFO - Starting Flask app...
+2025-06-13 10:42:29,219 - WARNING -  * Debugger is active!
+2025-06-13 10:42:29,220 - INFO -  * Debugger PIN: 121-856-794
+2025-06-13 10:42:31,953 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:31] "GET / HTTP/1.1" 200 -
+2025-06-13 10:42:32,123 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 10:42:32,124 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 10:42:32,126 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:32] "GET / HTTP/1.1" 200 -
+2025-06-13 10:42:50,432 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:42:50,514 - ERROR - Drive upload error: Unable to find the server at oauth2.googleapis.com
+2025-06-13 10:42:50,514 - ERROR - Prediction error: Google Drive upload failed
+2025-06-13 10:42:50,515 - INFO - 127.0.0.1 - - [13/Jun/2025 10:42:50] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-06-13 10:43:55,741 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 10:43:55,790 - INFO - Model loaded successfully.
+2025-06-13 10:43:55,791 - INFO - Loaded 100 class names from TXT.
+2025-06-13 10:43:55,792 - INFO - Starting Flask app...
+2025-06-13 10:43:55,799 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2025-06-13 10:43:55,799 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 10:43:55,800 - INFO -  * Restarting with stat
+2025-06-13 10:44:01,824 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-13 10:44:01,860 - INFO - Model loaded successfully.
+2025-06-13 10:44:01,861 - INFO - Loaded 100 class names from TXT.
+2025-06-13 10:44:01,862 - INFO - Starting Flask app...
+2025-06-13 10:44:01,866 - WARNING -  * Debugger is active!
+2025-06-13 10:44:01,866 - INFO -  * Debugger PIN: 121-856-794
+2025-06-13 10:44:11,896 - INFO - 127.0.0.1 - - [13/Jun/2025 10:44:11] "GET / HTTP/1.1" 200 -
+2025-06-13 10:44:12,042 - INFO - 127.0.0.1 - - [13/Jun/2025 10:44:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-06-13 10:44:12,045 - INFO - 127.0.0.1 - - [13/Jun/2025 10:44:12] "GET / HTTP/1.1" 200 -
+2025-06-13 10:44:12,047 - INFO - 127.0.0.1 - - [13/Jun/2025 10:44:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-13 10:44:18,970 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:44:22,694 - INFO - Uploaded to Google Drive. File ID: 1haiQUPNhtCp9BuhvU4XrB8SH0J-qKhmc
+2025-06-13 10:44:22,713 - INFO - Resizing image from (1024, 683) to (224, 224)
+2025-06-13 10:44:24,474 - INFO - Prediction: amputee football (0.24)
+2025-06-13 10:44:25,292 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:44:25,297 - INFO - 127.0.0.1 - - [13/Jun/2025 10:44:25] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:45:49,988 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:45:53,228 - INFO - Uploaded to Google Drive. File ID: 1yt95Vc30F-7qCyE9HenqXEI1JA3mLAcR
+2025-06-13 10:45:53,282 - INFO - Resizing image from (1200, 720) to (224, 224)
+2025-06-13 10:45:53,395 - INFO - Prediction: rugby (0.94)
+2025-06-13 10:45:54,342 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:45:54,347 - INFO - 127.0.0.1 - - [13/Jun/2025 10:45:54] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:47:31,074 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:47:34,301 - INFO - Uploaded to Google Drive. File ID: 12beTr6LHqDNk0cX-ew0wmoBAFS8rvH6D
+2025-06-13 10:47:34,316 - INFO - Resizing image from (1500, 1000) to (224, 224)
+2025-06-13 10:47:34,434 - INFO - Prediction: water polo (0.66)
+2025-06-13 10:47:34,860 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:47:34,863 - INFO - 127.0.0.1 - - [13/Jun/2025 10:47:34] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:48:31,002 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:48:35,232 - INFO - Uploaded to Google Drive. File ID: 1ame7BC2yxpR4hI3NN-BOshhzsmAjGgD9
+2025-06-13 10:48:35,307 - INFO - Resizing image from (2000, 1334) to (224, 224)
+2025-06-13 10:48:35,432 - INFO - Prediction: water polo (0.75)
+2025-06-13 10:48:36,150 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:48:36,154 - INFO - 127.0.0.1 - - [13/Jun/2025 10:48:36] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:50:15,955 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:50:20,290 - INFO - Uploaded to Google Drive. File ID: 1gkCQvQH1mHRPp5eAZRrX8NarGWPy89bI
+2025-06-13 10:50:20,298 - INFO - Resizing image from (1024, 505) to (224, 224)
+2025-06-13 10:50:20,409 - INFO - Prediction: rock climbing (0.43)
+2025-06-13 10:50:21,762 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:50:21,766 - INFO - 127.0.0.1 - - [13/Jun/2025 10:50:21] "POST /predict HTTP/1.1" 200 -
+2025-06-13 10:51:49,645 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:51:52,758 - INFO - Uploaded to Google Drive. File ID: 1J_dFZwtDDItkHzwyFosXIbFW_HC2iCeV
+2025-06-13 10:51:52,759 - ERROR - Image preprocessing failed: cannot identify image file 'temp_20250613105149_nb83vyrh-1406771839.jpg'
+2025-06-13 10:51:52,759 - ERROR - Prediction error: cannot identify image file 'temp_20250613105149_nb83vyrh-1406771839.jpg'
+2025-06-13 10:51:52,760 - INFO - 127.0.0.1 - - [13/Jun/2025 10:51:52] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-06-13 10:52:43,258 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-13 10:52:50,409 - INFO - Uploaded to Google Drive. File ID: 1OXan050bRCoCCRiVm58xpdmUa6mn0-6b
+2025-06-13 10:52:50,416 - INFO - Resizing image from (1600, 1069) to (224, 224)
+2025-06-13 10:52:50,537 - INFO - Prediction: golf (0.45)
+2025-06-13 10:52:51,741 - INFO - HTTP Request: POST https://zsjgpufvgcwaahewlzhg.supabase.co/rest/v1/predictions "HTTP/2 201 Created"
+2025-06-13 10:52:51,745 - INFO - 127.0.0.1 - - [13/Jun/2025 10:52:51] "POST /predict HTTP/1.1" 200 -

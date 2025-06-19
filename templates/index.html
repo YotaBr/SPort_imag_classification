@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Classifier</title>
+  <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+  <h1>Image Classifier</h1>
+
+  <div class="container">
+    <div id="drop-zone" class="drop-zone">
+      <input id="imageUpload" type="file" style="display: none;" accept="image/*">
+      <p>Click or drag-and-drop an image here</p>
+    </div>
+
+    <img id="preview" src="#" alt="Preview" class="preview-image">
+
+    <div id="loadingMsg" style="display: none; color: #007bff; margin-bottom: 10px">
+      Classifying, please wait...
+    </div>
+
+    <div id="spinner" class="spinner" style="display: none;"></div>
+
+    <div id="result" class="result"></div>
+
+    <ul id="historyList" class="history"></ul>
+
+    <br>
+    <button id="resetBtn" style="margin-bottom: 10px; display: none;">Remove</button>
+    <button id="clearHistoryBtn" style="margin-bottom: 20px;">Clear History</button>
+  </div>
+
+  <script src="static/js/script.js"></script>
+</body>
+</html>

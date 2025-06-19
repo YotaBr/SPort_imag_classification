@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.drop-zone {
+  border: 2px dashed #007bff;
+  padding: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.drop-zone.hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px 5px #007bff;
+  background-color: #e3f2fd;
+}
+
+.preview-image {
+  max-width: 100%;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+ opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  margin: 20px auto;
+  border: 5px solid #ccc;
+  border-top: 5px solid #007bff;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+      transform: rotate(360deg);
+  }
+}
+
+.result {
+  font-size: 1.2em;
+  margin: 10px 0;
+  color: #333;
+}
+
+.history ul {
+  list-style: none;
+  padding: 0;
+}
+
+.history li {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+  transition: background 0.3s ease;
+}
+
+.history li:hover {
+  background: #e3f2fd;
+}
+
+button {
+  padding: 10px 20px;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #0056b3;
+}

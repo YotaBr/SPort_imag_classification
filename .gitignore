@@ -1,0 +1,10 @@
+.env
+keys/*.json
+.env
+keys/
+*.h5
+__pycache__/
+.env
+keys/
+*.h5
+__pycache__/
